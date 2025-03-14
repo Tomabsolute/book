@@ -1,0 +1,13 @@
+# macOS 自动生成的系统文件
+.DS_Store
+
+# VSCode 工作目录
+.vscode/
+
+# 用户配置和历史记录（不要提交）
+.bash_history
+.zsh_history
+.gitconfig
+.matplotlib/
+.ssh/
+.Trash/
